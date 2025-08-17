@@ -2,7 +2,7 @@
 
 This project is part of my **Data Science Internship**.
 In this project the **Bank Marketing Dataset** is used to predict whether a customer will subscribe to a bank product/service (Yes/No) based on their demographic and behavioral data.
-Implemented a **Decision Tree Classifier** to analyze customer attributes such as age, job, marital status, balance, housing loan, previous campaign outcomes, and more
+Implemented a **Decision Tree Classifier** to analyze customer attributes such as age, job, marital status, balance, housing loan, previous campaign outcomes, and more.
 
 ---
 
