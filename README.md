@@ -13,10 +13,10 @@ Implemented a Decision Tree Classifier to analyze customer attributes such as ag
 # 📂 Dataset
 Source: https://www.kaggle.com/datasets/adityamhaske/bank-marketing-dataset
 - Features:
-   Demographic: `age`, `job`, `marital`, `education`
-   Financial: `balance`, `housing`, `loan`
-   Campaign-related: `contact`, `day`, `month`, `duration`, `campaign`, `pdays`, `previous`, `poutcome`
-Target: `y` → Whether the client subscribed (yes/no)
+   - Demographic: `age`, `job`, `marital`, `education`
+   - Financial: `balance`, `housing`, `loan`
+   - Campaign-related: `contact`, `day`, `month`, `duration`, `campaign`, `pdays`, `previous`, `poutcome`
+- Target: `y` → Whether the client subscribed (yes/no)
 
 
 # 🛠️ Tools & Technologies
