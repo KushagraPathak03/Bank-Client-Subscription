@@ -53,5 +53,5 @@ Source: https://www.kaggle.com/datasets/adityamhaske/bank-marketing-dataset
 - Achieved ~85% accuracy using Decision Tree Classifier  
 - Visualized the decision tree for interpretability
 - Improved results using SMOTE
-- Applied Cross-Validation (k-fold) for robust model performance
 - Evaluated with Confusion Matrix & Classification Report
+- Applied Cross-Validation (k-fold) for robust model performance
